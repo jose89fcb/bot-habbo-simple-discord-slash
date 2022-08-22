@@ -4,5 +4,5 @@ Este bot funciona con Slash
 
 <br>
 <br>
-Ejemplo: /habbo habbonombre:.iroke. hotel:es
+/habbo habbonombre:.iroke. hotel:ES
 <br>
